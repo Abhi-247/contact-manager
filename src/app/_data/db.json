@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "id": "1771736953832",
+      "name": "Abhishek Verma",
+      "email": "mrabhiverma1895@gmail.com",
+      "phone": "6386840054",
+      "userId": "1"
+    },
+    {
+      "id": "1771737195726",
+      "name": "Abhishek Verma",
+      "email": "mrabhiverma1895@gmail.com",
+      "phone": "06386840054",
+      "userId": "1"
+    },
+    {
+      "id": "1771737201663",
+      "name": "Abhishek Verma",
+      "email": "mrabhiverma1895@gmail.com",
+      "phone": "06386840054",
+      "userId": "1"
+    },
+    {
+      "id": "1771737291541",
+      "name": "Abhishek Verma",
+      "email": "mrabhiverma1895@gmail.com",
+      "phone": "06386840054",
+      "userId": "1771737275913"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@example.com",
+      "password": "password1"
+    },
+    {
+      "id": "1771737275913",
+      "name": "abhi",
+      "email": "user2@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "1771737404285",
+      "name": "abhishek",
+      "email": "user3@example.com",
+      "password": "123456"
+    }
+  ]
+}
